@@ -1,0 +1,6 @@
+displayName: Client Authentication Revocation
+type: middleware
+import: github.com/NicatorBa/TraefikClientAuthRevocation
+basePkg: clientauthrevocation
+summary: Provides revocation support for client certificate authentication
+testData:
